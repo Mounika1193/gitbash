@@ -7,6 +7,10 @@
 # $ git clone https://github.com/progman/gitbash.git ~/.config/gitbash;
 # $ echo "source ~/.config/gitbash/gitbash" >> ~/.bashrc;
 #---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------#
+
+$ git remote -v
+> origin  https://github.com/Mounika1193/HelloWorld.git (fetch)
+> origin  https://github.com/Mounika1193/HelloWorld.git (push)
 function git_url()
 {
 	local STATUS;
